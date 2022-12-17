@@ -35,9 +35,9 @@
 [![linux](https://skillicons.dev/icons?i=linux) ](https://www.linux.org/)
 [![selenium](https://skillicons.dev/icons?i=selenium) ](https://www.selenium.dev)
 
-[![](https://github-readme-stats.vercel.app/api?username=DenizGezgin&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true) ](https://github.com/DenizGezgin) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizGezgin&layout=compact&theme=great-gatsby)](https://github.com/DenizGezgin) 
+[![](https://github-readme-stats.vercel.app/api?username=DenizGezgin&theme=radical&show_icons=true&include_all_commits=true&count_private=true) ](https://github.com/DenizGezgin) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizGezgin&layout=compact&theme=radical)](https://github.com/DenizGezgin) 
 
-![](https://komarev.com/ghpvc/?username=DenizGezgin&color=green)
+![](https://komarev.com/ghpvc/?username=DenizGezgin&color=blue)
 
 <!--
 
