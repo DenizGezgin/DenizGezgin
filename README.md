@@ -1,9 +1,9 @@
 ### Hi there I am Deniz Can👋
 
+- 🏫 Computer Science and Engineering student in Sabanci University, Class of 2023
 - 🔭 I’m currently working as Web Developer
-- 🏫 Junior Computer Science and Engineering student in Sabanci University
+- 🌱 I’m currently learning about Unity and Game Development
 - 📫 How to reach me: [dgezgin@sabanciuniv.edu](mailto:dgezgin@sabanciuniv.edu)
-
 
 ### Programming Languages I Use
 
@@ -34,16 +34,14 @@
 [![unity](https://skillicons.dev/icons?i=unity) ](https://unity.com/)
 [![linux](https://skillicons.dev/icons?i=linux) ](https://www.linux.org/)
 [![selenium](https://skillicons.dev/icons?i=selenium) ](https://www.selenium.dev)
-[![openai](https://thenounproject.com/icon/open-ai-2486994/) ](https://openai.com/)
 
+[![](https://github-readme-stats.vercel.app/api?username=DenizGezgin&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true) ](https://github.com/DenizGezgin) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizGezgin&layout=compact&theme=great-gatsby)](https://github.com/DenizGezgin) 
+
+![](https://komarev.com/ghpvc/?username=DenizGezgin&color=green)
 
 <!--
-**DenizGezgin/DenizGezgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
