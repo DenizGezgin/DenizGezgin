@@ -7,12 +7,12 @@
 
 ### Programming Languages I Use
 
-[![C++](https://skillicons.dev/icons?cpp)](https://www.w3schools.com/cpp/)
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) ](https://www.w3schools.com/c/) 
-[![Csharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
-[![phyton](https://raw.githubusercontent.com/devicons/devicon/master/icons/phyton/phyton-original.svg) ](https://www.w3schools.com/python/) 
-[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) ](https://dart.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/)
+[![C](https://skillicons.dev/icons?i=c) ](https://www.w3schools.com/c/) 
+[![Csharp](https://skillicons.dev/icons?i=cs)](https://www.w3schools.com/cs/)
+[![phyton](https://skillicons.dev/icons?i=phyton) ](https://www.w3schools.com/python/) 
+[![javascript](https://skillicons.dev/icons?i=javascript) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](https://dart.dev)
 
 ### Web and Mobile Development Tools/Languages I Use
 
