@@ -21,19 +21,19 @@
 [![dotnetcore](https://skillicons.dev/icons?i=dotnet) ](https://dotnet.microsoft.com/en-us/download) 
 [![css3](https://skillicons.dev/icons?i=css) ](https://www.w3schools.com/css/) 
 [![bootstrap](https://skillicons.dev/icons?i=bootstrap) ](https://getbootstrap.com/) 
-[![html5](https://skillicons.dev/icons?i=html5) ](https://www.w3.org/html/) 
+[![html5](https://skillicons.dev/icons?i=html) ](https://www.w3.org/html/) 
 [![heroku](https://skillicons.dev/icons?i=heroku) ](https://heroku.com)
 
 ### Databases That I Use:
-[![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/) 
-[![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) ](https://www.postgresql.org)
-[![firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ](https://firebase.google.com/)
+[![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) 
+[![postgresql](https://skillicons.dev/icons?i=postgresql) ](https://www.postgresql.org)
+[![firebase](https://skillicons.dev/icons?i=firebase) ](https://firebase.google.com/)
 
 ### Other Tools That I Use:
 
-[![unity](https://1000logos.net/wp-content/uploads/2020/08/Unity-Logo.png) ](https://unity.com/)
-[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ](https://www.linux.org/)
-[![selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg) ](https://www.selenium.dev)
+[![unity](https://skillicons.dev/icons?i=unity) ](https://unity.com/)
+[![linux](https://skillicons.dev/icons?i=linux) ](https://www.linux.org/)
+[![selenium](https://skillicons.dev/icons?i=selenium) ](https://www.selenium.dev)
 [![openai](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/openal-logo.svg) ](https://openai.com/)
 
 
