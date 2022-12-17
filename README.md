@@ -1,7 +1,7 @@
 ### Hi there I am Deniz Can👋
 
 - 🏫 Computer Science and Engineering student in Sabanci University, Class of 2023
-- 🔭 I’m currently working as Web Developer
+- 🔭 I’m currently working as Web Developer at PragmaSoft
 - 🌱 I’m currently learning about Unity and Game Development
 - 📫 How to reach me: [dgezgin@sabanciuniv.edu](mailto:dgezgin@sabanciuniv.edu)
 
