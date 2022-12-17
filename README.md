@@ -34,7 +34,7 @@
 [![unity](https://skillicons.dev/icons?i=unity) ](https://unity.com/)
 [![linux](https://skillicons.dev/icons?i=linux) ](https://www.linux.org/)
 [![selenium](https://skillicons.dev/icons?i=selenium) ](https://www.selenium.dev)
-[![openai](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/openal-logo.svg) ](https://openai.com/)
+[![openai](https://thenounproject.com/icon/open-ai-2486994/) ](https://openai.com/)
 
 
 <!--
