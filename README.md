@@ -1,3 +1,11 @@
+<style>
+  img {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+  }
+</style>
+
 ### Hi there I am Deniz Can👋
 
 - 🔭 I’m currently working as Web Developer
