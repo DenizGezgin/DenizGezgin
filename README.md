@@ -10,19 +10,19 @@
 [![C++](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/)
 [![C](https://skillicons.dev/icons?i=c) ](https://www.w3schools.com/c/) 
 [![Csharp](https://skillicons.dev/icons?i=cs)](https://www.w3schools.com/cs/)
-[![phyton](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png) ](https://www.w3schools.com/python/) 
-[![javascript](https://skillicons.dev/icons?i=javascript) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](https://dart.dev)
+[![phyton](https://skillicons.dev/icons?i=py) ](https://www.w3schools.com/python/) 
+[![javascript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
 
 ### Web and Mobile Development Tools/Languages I Use
 
-[![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ](https://reactjs.org/) 
-[![flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) ](https://flutter.dev)
-[![dotnetcore](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/dotnetcore-original.svg) ](https://dotnet.microsoft.com/en-us/download) 
-[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ](https://www.w3schools.com/css/) 
-[![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg) ](https://getbootstrap.com/) 
-[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/) 
-[![heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) ](https://heroku.com)
+[![react](https://skillicons.dev/icons?i=react) ](https://reactjs.org/) 
+[![flutter](https://skillicons.dev/icons?i=flutter) ](https://flutter.dev)
+[![dotnetcore](https://skillicons.dev/icons?i=dotnet) ](https://dotnet.microsoft.com/en-us/download) 
+[![css3](https://skillicons.dev/icons?i=css) ](https://www.w3schools.com/css/) 
+[![bootstrap](https://skillicons.dev/icons?i=bootstrap) ](https://getbootstrap.com/) 
+[![html5](https://skillicons.dev/icons?i=html5) ](https://www.w3.org/html/) 
+[![heroku](https://skillicons.dev/icons?i=heroku) ](https://heroku.com)
 
 ### Databases That I Use:
 [![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/) 
