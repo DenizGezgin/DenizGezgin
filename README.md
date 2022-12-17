@@ -7,7 +7,7 @@
 
 ### Programming Languages I Use
 
-[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) ](https://www.w3schools.com/cpp/)(./pic/pic1_50.png =100x20)
+[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original-wordmark.svg) ](https://www.w3schools.com/cpp/)
 [![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) ](https://www.w3schools.com/c/) 
 [![Csharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
 [![phyton](https://raw.githubusercontent.com/devicons/devicon/master/icons/phyton/phyton-original.svg) ](https://www.w3schools.com/python/) 
