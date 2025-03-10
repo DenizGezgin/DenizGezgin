@@ -1,6 +1,6 @@
 ### Hi there I am Deniz Can👋
 
-- 🏫 Computer Science and Engineering student in Sabanci University, Class of 2023
+- 🏫 Computer Science and Engineering student in Sabanci University, Class of 2024
 - 🔭 I’m currently working as Developer at Udemy
 - 🌱 I’m currently learning about Go and Godot
 - 📫 How to reach me: [dgezgin@sabanciuniv.edu](mailto:dgezgin@sabanciuniv.edu)
